@@ -1,6 +1,7 @@
 # fit_index
 
-A new Flutter project.
+The "FitIndex" app is an easy-to-use tool for calculating Body Mass Index (BMI). Users can enter their weight and height to get an instant BMI value, which helps determine their weight category (such as normal weight, overweight, or obesity). The app features a simple and quick interface
+
 
 ## Getting Started
 
