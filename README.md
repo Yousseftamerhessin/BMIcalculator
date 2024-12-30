@@ -1,8 +1,8 @@
-# bmi_calculator
+# fit_index
 
-An intuitive app for calculating Body Mass Index (BMI). Users enter weight and height to quickly determine their weight category, with a straightforward and user- friendly interface. 
+A new Flutter project.
+
 ## Getting Started
-https://github.com/user-attachments/assets/521ad93b-f8b4-4bc0-bada-ebaaac93c53d
 
 This project is a starting point for a Flutter application.
 
