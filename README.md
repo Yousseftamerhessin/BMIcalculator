@@ -1,5 +1,3 @@
-# Creating the README file content
-readme_content = """
 # FitIndex 📊
 
 **FitIndex** is a straightforward and user-friendly app designed to help users calculate their Body Mass Index (BMI). By entering basic details like weight and height, users can quickly determine their BMI and understand their weight category (e.g., normal weight, overweight, or obesity). The app emphasizes simplicity and speed, making health tracking accessible to everyone.
