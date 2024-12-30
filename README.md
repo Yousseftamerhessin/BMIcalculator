@@ -22,18 +22,3 @@
 ### 🌐 Accessibility
 - Designed to be inclusive and simple for everyone, regardless of fitness level.
 
----
-
-## 🛠️ Getting Started
-
-This project is an ideal starting point for those new to Flutter development. 
-
-### Prerequisites
-- Install Flutter SDK ([Download Flutter](https://flutter.dev/get-started/install)).
-- Set up a compatible IDE like Android Studio or Visual Studio Code.
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Yousseftamerhessin/FitIndex.git
-   cd FitIndex
