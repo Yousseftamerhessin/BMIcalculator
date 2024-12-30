@@ -1,6 +1,6 @@
 # fit_index
 
-The "FitIndex" app is an easy-to-use tool for calculating Body Mass Index (BMI). Users can enter their weight and height to get an instant BMI value, which helps determine their weight category (such as normal weight, overweight, or obesity). The app features a simple and quick interface
+FitIndex is a straightforward and user-friendly app designed to help users calculate their Body Mass Index (BMI). By entering basic details like weight and height, users can quickly determine their BMI and understand their weight category (e.g., normal weight, overweight, or obesity). The app emphasizes simplicity and speed, making health tracking accessible to everyone.
 
 
 ## Getting Started
