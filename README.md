@@ -21,5 +21,10 @@
 
 ### 🌐 Accessibility
 - Designed to be inclusive and simple for everyone, regardless of fitness level.
-https://github.com/user-attachments/assets/ea7719b2-198e-49c4-b49e-c1e8f895e7c9
-https://github.com/user-attachments/assets/930cf49d-e3f4-4450-b6e5-f707b067383a
+
+---
+
+## 🖼️ Screenshots
+
+![Screenshot 1](https://github.com/user-attachments/assets/ea7719b2-198e-49c4-b49e-c1e8f895e7c9)
+![Screenshot 2](https://github.com/user-attachments/assets/930cf49d-e3f4-4450-b6e5-f707b067383a)
